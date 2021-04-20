@@ -7,9 +7,9 @@ function sum (first, second){
         let mood = 'happy';
         mood = 'fishy';
         mood = 'funky';
-        console.log(mood);
+        // console.log(mood); ekhane log kora jabe . cz eta block er vitore ache .
     }
-     console.log(mood);
+     console.log(mood);// ekhane log kora jabe nah . eta block scope 
     return result;
     
 
